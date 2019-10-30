@@ -1,4 +1,4 @@
-# oneapp
+# oneapp 模仿app一个one,里面可能有些许改动，但是大体会是一样的
 
 ## Project setup
 ```
